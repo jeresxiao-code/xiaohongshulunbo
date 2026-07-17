@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书橙白科技轮播"
+  short_description: "生成统一橙白浅蓝科技信息图风格的小红书封面与系列轮播图"
+  default_prompt: "使用 $xhs-orange-tech-carousel 把以下内容制作成一套 3:4 小红书信息图轮播。"

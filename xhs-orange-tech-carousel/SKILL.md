@@ -17,7 +17,7 @@ description: Create bright orange-white-pale-blue Chinese Xiaohongshu promotiona
 3. 提炼每页信息，只保留：页码、主标题、1 句价值说明、输入/条件、输出/收益、底部行动句。
 4. 读取 [references/style-spec.md](references/style-spec.md) 并锁定视觉规范。
 5. 读取 [references/prompt-patterns.md](references/prompt-patterns.md)，为每一张图写独立生成提示词。
-6. 优先把 [assets/style-cover.png](assets/style-cover.png) 用作主封面风格参考，把 [assets/style-content-page.png](assets/style-content-page.png) 用作内容页风格参考。参考图只用于色彩、卡片、图标、字阶与系列一致性，不要求复制内容。
+6. 优先把 [assets/style-cover.jpg](assets/style-cover.jpg) 用作主封面风格参考，把 [assets/style-content-page.jpg](assets/style-content-page.jpg) 用作内容页风格参考。参考图只用于色彩、卡片、图标、字阶与系列一致性，不要求复制内容。
 7. 多张图必须分别调用一次图片生成工具；不要用一次调用的多个随机变体代替不同页面。
 8. 出图后逐张复核并保存到项目目录；采用 `01-topic.png`、`02-topic.png` 的编号命名。
 
